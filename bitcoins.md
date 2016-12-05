@@ -1,9 +1,9 @@
 % Bitcoin
 % Lily and Uriel
-% 28 Novemeber, 2016
+% Decemeber 2016
 
 #What is Bitcoin?
-![bitcoin](bcoin.png)
+![](bcoin.png)
 
 
 
@@ -14,6 +14,12 @@
 3. Get or buy bitcoins
 4. Spend bitcoins
 
+#Buying bitcoin
+
+<section>
+    <video data-audio-controls src="./video/buying.mp4#t=0,65" type="video/mp4" width="100%" />
+  </video>
+</section>
 
 #Where can you use Bitcoin?
 
