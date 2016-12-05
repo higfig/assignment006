@@ -3,6 +3,9 @@
 % 28 Novemeber, 2016
 
 #What is Bitcoin?
+![bitcoin](bcoin.png)
+
+
 
 
 #Why use it?
