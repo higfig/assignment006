@@ -3,7 +3,7 @@
 % Decemeber 2016
 
 #What is Bitcoin?
-![](bcoin.png)
+![mn](what.png)
 
 
 
@@ -32,9 +32,6 @@
 #Step 5: Completed Transaction
 ![5](step6.png)
 
-#Where can you use Bitcoin?
-![atm](atm.png)
-
 
 
 #Coin Conversion?
@@ -42,6 +39,8 @@
 
 
 #Why use Bitcoin? Any Issues?
+![talk](talk.png)
 
 #The Future of Bitcoin 
+![future](future.png)
 
