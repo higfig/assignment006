@@ -3,7 +3,7 @@
 % Decemeber 2016
 
 #What is Bitcoin?
-![mn](what.png)
+![?](what.png)
 
 
 
@@ -15,7 +15,7 @@
 4. Spend bitcoins
 
 #Using bitcoins
-![buy](buy.png)
+![Using Bitcoins](buy.png)
 
 # Step 1: Click “Buy Bitcoin”.
 ![1](step1.png)
@@ -39,8 +39,8 @@
 
 
 #Why use Bitcoin? Any Issues?
-![talk](talk.png)
+![Lets talk](talk.png)
 
 #The Future of Bitcoin 
-![future](future.png)
+![The Future](future.png)
 
