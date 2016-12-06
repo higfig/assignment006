@@ -14,14 +14,28 @@
 3. Get or buy bitcoins
 4. Spend bitcoins
 
-#Buying bitcoin
+#Using bitcoins
+![buy](buy.png)
 
-<section>
-    <video data-audio-controls src="./video/buying.mp4#t=0,65" type="video/mp4" width="100%" />
-  </video>
-</section>
+# Step 1: Click “Buy Bitcoin”.
+![1](step1.png)
+
+#Step 2: How much cash?
+![2](step2.png)
+
+#Step 3: Scanning Address
+![3](step4.png)
+
+#Step 4: Insert Cash
+![4](step5.png)
+
+#Step 5: Completed Transaction
+![5](step6.png)
 
 #Where can you use Bitcoin?
+![atm](atm.png)
+
+
 
 #Coin Conversion?
 ![worth](coindesk-bpi-chart.png)
